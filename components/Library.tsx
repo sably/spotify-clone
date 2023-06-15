@@ -31,7 +31,6 @@ const Library: React.FC<LibraryProps> = ({
       return authModal.onOpen();
     }
 
-    //Todo: uncomment this
     if (!subscription) {
       return subscribeModal.onOpen();
     }
