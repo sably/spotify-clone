@@ -1,8 +1,5 @@
 # Full Stack Spotify Clone with Next.js 13.4 App Router: React, Tailwind, Supabase, PostgreSQL, Stripe
 
-For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
-
-Demo: 👉 [spotify-clone](https://spotify-clone-fawn-ten.vercel.app/)
 
 Key Features:
 
@@ -26,7 +23,10 @@ Key Features:
 - Handling relations between Server and Child components in a real-time environment
 - Cancelling Stripe subscriptions
 
+App Demo: 👉 [spotify-clone](https://spotify-clone-fawn-ten.vercel.app/)
 ### Prerequisites
+
+** For payment DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
 **Node version 14.x**
 
